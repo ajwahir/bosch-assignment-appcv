@@ -1,1 +1,4 @@
 data/*
+.venv
+checkpoints
+tasks/3_eval_viz/results/visualizations

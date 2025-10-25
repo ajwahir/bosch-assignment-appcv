@@ -1,0 +1,21 @@
+# Minimal requirements for exploratory data analysis
+numpy
+pandas
+matplotlib
+opencv-python-headless
+Pillow
+tqdm
+pyyaml
+scipy
+jsonschema
+# model training and visualization
+torch
+torchvision
+tensorboard
+pycocotools
+mmcv-full
+mmdet==2.28.2
+mmengine
+umap-learn
+scalabel
+streamlit

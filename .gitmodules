@@ -1,0 +1,3 @@
+[submodule "tasks/3_eval_viz/bdd100k-models"]
+	path = tasks/3_eval_viz/bdd100k-models
+	url = https://github.com/SysCV/bdd100k-models.git
