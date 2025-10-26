@@ -13,9 +13,10 @@ torch
 torchvision
 tensorboard
 pycocotools
-mmcv-full
 mmdet==2.28.2
-mmengine
+mmengine==0.10.7
 umap-learn
 scalabel
 streamlit
+seaborn
+fiftyone
