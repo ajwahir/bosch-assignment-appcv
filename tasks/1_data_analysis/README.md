@@ -1,6 +1,6 @@
 
 
-# 1. Data Analysis (10 points)
+# 1. Data Analysis
 
 ## Objective
 
